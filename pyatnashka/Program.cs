@@ -8,6 +8,7 @@ namespace Pyatnashka
         static void Main()
         {
             Game.Start();
+            //Some
         }
     }
 }

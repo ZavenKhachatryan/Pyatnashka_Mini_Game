@@ -9,6 +9,7 @@ namespace Pyatnashka
         {
             Game.Start();
             //Some
+            //Some2
         }
     }
 }
